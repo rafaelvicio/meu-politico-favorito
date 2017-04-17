@@ -1,2 +1,2 @@
-# meu-politico-favorito
-API com informações de politicos citados em esquemas de corrupção 
+# Meu politico favorito
+API que vai disponibilizar para o povo brasileiro o envolvimento dos seus políticos com esquemas de corrupção.
